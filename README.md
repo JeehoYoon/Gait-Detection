@@ -29,7 +29,7 @@ Re-id (사람 재식별) 기술은 cctv 영상을 이용해 보행자의 통행�
 자동으로 사람을 떼어내어 배경을 바꿔주는 시스템
 이 논문을 이용하여 우리 실루엣을 생성하는데 응용
 <br/>
-<div> <center><img src="https://user-images.githubusercontent.com/48522169/81587119-8a01da00-93f1-11ea-845e-6a31c15a101f.PNG" width="50%" height="40%" title="BackMatting " alt="실행1"> </img></div>
+<div> <center><img src="https://user-images.githubusercontent.com/48522169/81588047-e0234d00-93f2-11ea-953c-c0b3351612cf.PNG" width="50%" height="40%" title="BackMatting " alt="실행1"> </img></div>
 <br/>
 <br/>
 ## Mask R-CNN 이용
@@ -51,13 +51,13 @@ MS COCO 데이터셋으로 학습되었고, 81개 Class에 대해 Detection 가�
 
 ***1. 각도별 정확성***    
 <div>
-<img src="https://user-images.githubusercontent.com/48522169/81587086-7eaeae80-93f1-11ea-800f-3ffc732467b1.png" width="60%" height="40%" title="matrix" alt="실행1">     </img>  
+<img src="https://user-images.githubusercontent.com/48522169/81587086-7eaeae80-93f1-11ea-800f-3ffc732467b1.png" width="20%" height="20%" title="matrix" alt="실행1">     </img>  
 </div>    
 </br>
 </br>
 ***2. 실제 정확성***    
 <div>
-<img src="https://user-images.githubusercontent.com/48399897/80968716-679d1900-8e53-11ea-8c14-a6a6363f0988.png" width="60%" height="40%" title="" alt="실행1">     </img>  
+<img src="https://user-images.githubusercontent.com/48522169/81588074-ec0f0f00-93f2-11ea-8414-a2b889793510.png" width="60%" height="40%" title="" alt="실행1">     </img>  
 </div>    
 </br>
 </br>

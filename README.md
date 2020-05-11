@@ -29,7 +29,7 @@ Re-id (사람 재식별) 기술은 cctv 영상을 이용해 보행자의 통행�
 자동으로 사람을 떼어내어 배경을 바꿔주는 시스템
 이 논문을 이용하여 우리 실루엣을 생성하는데 응용
 <br/>
-<div> <center><img src="https://user-images.githubusercontent.com/48522169/81588047-e0234d00-93f2-11ea-953c-c0b3351612cf.PNG" width="50%" height="50%" title="BackMatting " alt="실행1"> </img></div>
+<div> <center><img src="https://user-images.githubusercontent.com/48522169/81588047-e0234d00-93f2-11ea-953c-c0b3351612cf.PNG" width="70%" height="70%" title="BackMatting " alt="실행1"> </img></div>
 <br/>
 <br/>
 ## Mask R-CNN 이용
